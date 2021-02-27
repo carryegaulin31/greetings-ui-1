@@ -6,12 +6,8 @@
 
 .title {
   font-size: 24px;
-  font-weight: 600;
+  font-weight: 900;
   margin-bottom: 20px;
-}
-
-.subtitle {
-  font-size: 20px;
 }
 
 input {
@@ -23,5 +19,7 @@ input {
 }
 
 .slug {
-  font-size: 16px;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 20px;
 }
